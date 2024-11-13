@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  为特定标签和数值显示添加模糊效果
 // @author       MGS浪疯, ChatGPT
-// @match        https://console.cloud.tencent.com/
+// @match        https://console.cloud.tencent.com/*
 // @grant        none
 // ==/UserScript==
 
