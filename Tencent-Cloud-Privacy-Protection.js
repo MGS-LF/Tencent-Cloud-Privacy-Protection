@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         模糊特定标签和数值显示
-// @namespace    http://tampermonkey.net/
+// @name         腾讯云隐私保护
+// @namespace    
 // @version      0.1
 // @description  为特定标签和数值显示添加模糊效果
 // @author       MGS浪疯, ChatGPT
