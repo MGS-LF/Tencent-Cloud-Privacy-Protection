@@ -23,7 +23,7 @@
 
 1. 点击浏览器右上角的油猴脚本管理器图标。
 2. 选择 "创建新脚本"。
-3. 打开本仓库中的 [`tencent-cloud-privacy-protector.user.js`](./tencent-cloud-privacy-protector.user.js) 文件，将其内容复制并粘贴到油猴脚本编辑器中。
+3. 打开本仓库中的 [`Tencent-Cloud-Privacy-Protection.js`](./Tencent-Cloud-Privacy-Protection.js) 文件，将其内容复制并粘贴到油猴脚本编辑器中。
 4. 保存脚本并启用。
 
 ### 3. 刷新页面
@@ -37,7 +37,7 @@
 2. 按 `F12` 打开开发者工具。
 3. 使用元素选择工具（通常是一个鼠标箭头图标）选择您想要屏蔽的内容。
 4. 在开发者工具中，找到该元素的 `class` 名称。
-5. 打开本仓库中的 [`tencent-cloud-privacy-protector.user.js`](./tencent-cloud-privacy-protector.user.js) 文件，将 `class` 名称添加到 `blurSelectors` 数组中。
+5. 打开本仓库中的 [`Tencent-Cloud-Privacy-Protection.js`](./Tencent-Cloud-Privacy-Protection.js) 文件，将 `class` 名称添加到 `blurSelectors` 数组中。
 6. 保存脚本并刷新页面，新的屏蔽规则将生效。
 
 ## 注意事项
@@ -57,7 +57,7 @@
 ---
 
 ### 文件说明
-- **`tencent-cloud-privacy-protector.js`**：插件的主脚本文件，包含自动打码的核心逻辑。请查看该文件以获取更多详细信息。
+- **`Tencent-Cloud-Privacy-Protection.js`**：插件的主脚本文件，包含自动打码的核心逻辑。请查看该文件以获取更多详细信息。
 - **`README.md`**：本文件，提供插件的使用说明和安装指南。
 
-请确保查看仓库中的 [`tencent-cloud-privacy-protector.user.js`](./tencent-cloud-privacy-protector.user.js) 文件以获取最新代码和配置。
+请确保查看仓库中的 [`Tencent-Cloud-Privacy-Protection.js`](./Tencent-Cloud-Privacy-Protection.js) 文件以获取最新代码和配置。
